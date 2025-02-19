@@ -2,7 +2,7 @@
 
 # MyList
 # 域名后缀匹配
-DOMAIN-SUFFIX,cloudflare.com
+;DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,zxmb.cloudns.org
 DOMAIN-SUFFIX,zxmb69.cloudns.org
 DOMAIN-SUFFIX,emojiall.com
